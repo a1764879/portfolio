@@ -1,14 +1,26 @@
-import React from 'react';
-import { BrowserRouter} from "react-router-dom";
-import Main from './components/MainComponent'
+import React, {useState} from 'react';
+import {BrowserRouter as Router} from "react-router-dom";
+import {Container} from "react-bootstrap";
 
 function App() {
+    const [title, setTitle] = useState('Alan');
+    let head = [
+        {title:'Home', path:'/'},
+        {title:'About', path:'/about'},
+        {title:'Contact', path:'/contact'},
+    ]
+    const [headerLinks, setHeaderLinks] = useState(head);
+    const [home, setHome] = useState({title:'Alan Pallath'})
+    const [about, setAbout]  = useState({title:'About Me'})
+    const [contact, setContact] = useState({title: 'Let\'s talk'})
+    console.log(headerLinks)
   return (
-      <BrowserRouter>
-        <div className="App">
-          <Main/>
-        </div>
-      </BrowserRouter>
+        <Router>
+            <Container fluid={false}>
+                <p>Hi</p>
+
+            </Container>
+        </Router>
   );
 }
 
