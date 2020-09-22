@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.81444521.chunk.css",
-    "main.js": "/portfolio/static/js/main.a9c2624c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a9c2624c.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.459797f6.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.459797f6.js.map",
-    "static/css/2.f3cffc9e.chunk.css": "/portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.0cf08d0d.chunk.js": "/portfolio/static/js/2.0cf08d0d.chunk.js",
-    "static/js/2.0cf08d0d.chunk.js.map": "/portfolio/static/js/2.0cf08d0d.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.ebfa825472717b8c1e23ed6584187fd4.js": "/portfolio/precache-manifest.ebfa825472717b8c1e23ed6584187fd4.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.f3cffc9e.chunk.css.map": "/portfolio/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.81444521.chunk.css.map": "/portfolio/static/css/main.81444521.chunk.css.map",
-    "static/js/2.0cf08d0d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0cf08d0d.chunk.js.LICENSE.txt",
-    "static/media/alan.jpg": "/portfolio/static/media/alan.1b0b504d.jpg",
-    "static/media/pigeon.jpg": "/portfolio/static/media/pigeon.4b638a4c.jpg"
+    "main.css": "/static/css/main.81444521.chunk.css",
+    "main.js": "/static/js/main.4640f8a2.chunk.js",
+    "main.js.map": "/static/js/main.4640f8a2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.0cf08d0d.chunk.js": "/static/js/2.0cf08d0d.chunk.js",
+    "static/js/2.0cf08d0d.chunk.js.map": "/static/js/2.0cf08d0d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9b72c3ca1e3cb38f79d894c3276a5e89.js": "/precache-manifest.9b72c3ca1e3cb38f79d894c3276a5e89.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.81444521.chunk.css.map": "/static/css/main.81444521.chunk.css.map",
+    "static/js/2.0cf08d0d.chunk.js.LICENSE.txt": "/static/js/2.0cf08d0d.chunk.js.LICENSE.txt",
+    "static/media/alan.jpg": "/static/media/alan.1b0b504d.jpg",
+    "static/media/pigeon.jpg": "/static/media/pigeon.4b638a4c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.459797f6.js",
+    "static/js/runtime-main.3bbf3189.js",
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.0cf08d0d.chunk.js",
     "static/css/main.81444521.chunk.css",
-    "static/js/main.a9c2624c.chunk.js"
+    "static/js/main.4640f8a2.chunk.js"
   ]
 }
